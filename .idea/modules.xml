@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/File_Picker.iml" filepath="$PROJECT_DIR$/.idea/modules/File_Picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/File_Picker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/File_Picker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/File_Picker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/File_Picker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/File_Picker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/File_Picker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/File_Picker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/File_Picker.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
